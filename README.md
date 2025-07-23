@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Lampalon142/Lampalon142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Lampalon_, im pasionned of Minecraft and i'm currently in study of Fullstack Developpement
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on LifeMod and MineBlocks
+- 🌱 I’m currently learning Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Github Stats
 
-[![Lampalon GitHub stats](https://github-readme-stats.vercel.app/api?username=Lampalon142)](https://github.com/anuraghazra/github-readme-stats)
+[![Lampalon GitHub stats](https://github-readme-stats.vercel.app/api?username=Lampalon142&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lampalon142&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Contact me
+
+- ✉️ Mail : **[contact.lampalon@gmail.com]**
+- Discord : **lampalon#0**
