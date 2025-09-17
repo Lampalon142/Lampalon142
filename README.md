@@ -2,7 +2,7 @@
 
 Im Lampalon_, im pasionned of Minecraft and i'm currently in study of Fullstack Development
 
-- 🔭 I’m currently working on LifeMod and MineBlocks
+- 🔭 I’m currently working on LifeMod
 - 🌱 I’m currently learning Java
 
 ### 📊 My Github Stats
